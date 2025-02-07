@@ -8,11 +8,8 @@ Run the following command to install the required packages:
 pip install streamlit torch transformers sentence-transformers
 Start the Application
 Run the Streamlit app using:
-
-bash
-Copy
-Edit
 streamlit run app.py
+```
  Access the UI
 Once the server starts, you can access the application at:
 🔗 http://localhost:8501
