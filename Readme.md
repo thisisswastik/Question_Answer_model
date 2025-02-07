@@ -10,7 +10,7 @@ pip install streamlit torch transformers sentence-transformers
 Start the Application
 Run the Streamlit app using:
 ```
-streamlit run app.py
+streamlit run qa.py
 ```
  Access the UI
 Once the server starts, you can access the application at:
