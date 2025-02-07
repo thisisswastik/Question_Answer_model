@@ -6,8 +6,10 @@ To run the application locally, follow these steps:
 Run the following command to install the required packages:  
 ```bash
 pip install streamlit torch transformers sentence-transformers
+```
 Start the Application
 Run the Streamlit app using:
+```
 streamlit run app.py
 ```
  Access the UI
