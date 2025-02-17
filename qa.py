@@ -19,6 +19,7 @@ qa_model.to(device)
 # Streamlit UI
 st.title("📖 AI-Powered Question Answering")
 st.write("Enter a passage, then ask a question based on it!")
+st.write("Please keep the word limit to max 500 only")
 
 # User inputs a paragraph
 user_passage = st.text_area("📝 Enter a paragraph:", height=200)
